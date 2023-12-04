@@ -6,7 +6,7 @@ The source codes of electrum and gui wallet kdx were taken as a basis
 
 1) Super-fast nodes and servers that ensure the operation of the wallet
 2) Creating and restoring a wallet using 12 words
-3) Ability to create and/or upload your own kdx file to restore your wallet
+3) Ability to create and/or upload your own .kpk file to restore your wallet
 4) Multilingual support
 5) OS Windows 7 support
 
